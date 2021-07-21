@@ -1,0 +1,7 @@
+.env
+
+venv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+lol-live-stats/

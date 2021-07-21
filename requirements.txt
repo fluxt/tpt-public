@@ -1,0 +1,11 @@
+python-dotenv
+tabulate
+
+gql
+
+scikit-learn
+tensorflow
+pytorch
+matplotlib
+numpy
+pandas
